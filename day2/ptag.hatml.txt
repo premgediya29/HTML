@@ -1,0 +1,8 @@
+<html>
+<head>
+	<title>p tags</title>
+</head>
+<body>
+	<p>hello world.my name is gediya prem.my father's name is dharmeshbhai.my mother's name is ushaben.</p>
+</body>
+</html>
